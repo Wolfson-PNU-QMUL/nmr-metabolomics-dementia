@@ -2,7 +2,7 @@
 ## Corresponds to Methods (Interaction and subgroup analysis) and Supplementary Tables 6-8
 ## Part 1: metabolite x sex, metabolite x APOE e4 and metabolite x sex x APOE e4 interactions
 ## Part 2: subgroup analyses stratified by sex, APOE e4 carrier status and their combinations
-## APOE e4 is coded as carrier (1) vs non-carrier (0)
+
 
 ## Set directories---------------------------------------------------------------
 data_dir <- "path/to/data_derived/"   # folder containing input data
